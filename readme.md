@@ -2,6 +2,7 @@ Hello there! My name is Gongfan Fang, and I am a first-year Ph.D. student at the
 
 [[Personal Site]](https://fangggf.github.io/)
 [[Google Scholar]](https://scholar.google.com/citations?user=489YZ_kAAAAJ&hl=en)
+[[Semantic Scholar]](https://www.semanticscholar.org/author/Gongfan-Fang/150110431)
 [[DBLP]](https://dblp.org/pid/243/5768.html)
 
 <a href="https://stardev.io/developers/VainF"><img alt="Check out VainF's profile on stardev.io" src="https://stardev.io/developers/VainF/badge/languages/country.svg" /></a>
