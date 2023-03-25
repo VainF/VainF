@@ -5,5 +5,12 @@ Hello there! My name is Gongfan Fang, and I am a first-year Ph.D. student at the
 [[Semantic Scholar]](https://www.semanticscholar.org/author/Gongfan-Fang/150110431)
 [[DBLP]](https://dblp.org/pid/243/5768.html)
 
-<a href="https://stardev.io/developers/VainF"><img alt="Check out VainF's profile on stardev.io" src="https://stardev.io/developers/VainF/badge/languages/country.svg" /></a>
+
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm" width="45%"/>
+</picture>
+
+<a href="https://stardev.io/developers/VainF"><img alt="Check out VainF's profile on stardev.io" src="https://stardev.io/developers/VainF/badge/languages/country.svg" width="45%" /></a>
+
+
 
