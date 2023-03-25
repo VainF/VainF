@@ -7,7 +7,15 @@ Hello there! My name is Gongfan Fang, and I am a first-year Ph.D. student at the
 
 
 <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm" width="45%"/>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm" width="45%" />
 </picture>
 
 <a href="https://stardev.io/developers/VainF"><img alt="Check out VainF's profile on stardev.io" src="https://stardev.io/developers/VainF/badge/languages/country.svg" width="45%" /></a>
