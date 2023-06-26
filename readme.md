@@ -4,10 +4,10 @@ Hello there! My name is Gongfan Fang,
 * Prior to joining LV Lab, I completed my Bachelor's degree in 2019 and Master's degree in 2022 at the <a href="https://www.vipazoo.cn/">Visual Intelligence and Pattern Analysis (VIPA) Lab</a> @ Zhejiang University, where I worked under the supervision of Professor <a href="https://person.zju.edu.cn/en/msong">Mingli Song</a>. 
 * My research interests primarily revolve around developing **practical algorithms for efficient deep learning**. 
 
-[[Personal Page]](https://fangggf.github.io/)
-[[Google Scholar]](https://scholar.google.com/citations?user=489YZ_kAAAAJ&hl=en)
-[[Semantic Scholar]](https://www.semanticscholar.org/author/Gongfan-Fang/150110431)
-[[DBLP]](https://dblp.org/pid/243/5768.html)
+[[Personal Page]](https://fangggf.github.io/) | 
+[[Google Scholar]](https://scholar.google.com/citations?user=489YZ_kAAAAJ&hl=en) | 
+[[Semantic Scholar]](https://www.semanticscholar.org/author/Gongfan-Fang/150110431) | 
+[[DBLP]](https://dblp.org/pid/243/5768.html) 
 
 <img src="https://user-images.githubusercontent.com/18592211/231067736-8638d6f4-2307-4c03-a566-aa86a1964d3d.png" width="15%"></img>
 <img src="https://user-images.githubusercontent.com/18592211/231067910-65b031ea-473d-4675-81b6-92ed9b0510cc.png" width="15%"></img>
