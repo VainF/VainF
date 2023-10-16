@@ -31,5 +31,3 @@ Hello there! My name is Gongfan Fang,
 />
 <img src="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm" />
 </picture>
-
-[![](https://komarev.com/ghpvc/?username=vainf&label=Page%20Views)](https://github.com/VainF)
