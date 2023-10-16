@@ -5,10 +5,11 @@ Hello there! My name is Gongfan Fang,
 * Prior to joining LV Lab, I obtained my Bachelor's and Master's degrees at the <a href="https://www.vipazoo.cn/">Visual Intelligence and Pattern Analysis (VIPA) Lab</a> @ Zhejiang University, where I worked under the supervision of Professor <a href="https://person.zju.edu.cn/en/msong">Mingli Song</a>. 
 * My research interests mainly revolve around **practical algorithms for efficient deep learning**. 
 
-[[Personal Page]](https://fangggf.github.io/) | 
-[[Google Scholar]](https://scholar.google.com/citations?user=489YZ_kAAAAJ&hl=en) | 
-[[Semantic Scholar]](https://www.semanticscholar.org/author/Gongfan-Fang/150110431) | 
-[[DBLP]](https://dblp.org/pid/243/5768.html) 
+[![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-blueviolet)](https://fangggf.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=489YZ_kAAAAJ&hl=en)
+[![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-Profile-9cf)](https://www.semanticscholar.org/author/Gongfan-Fang/150110431)
+[![DBLP](https://img.shields.io/badge/DBLP-Profile-271)](https://dblp.org/pid/243/5768.html)
+[![Page Views](https://komarev.com/ghpvc/?username=vainf&label=Page%20Views&color=ad2352)](https://github.com/VainF)
 
 
 <img src="https://user-images.githubusercontent.com/18592211/231067736-8638d6f4-2307-4c03-a566-aa86a1964d3d.png" width="15%"></img>
