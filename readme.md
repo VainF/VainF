@@ -1,7 +1,7 @@
 
 Hello there! My name is Gongfan Fang,
 
-* I'm a second-year Ph.D. student at the <a href="http://lv-nus.org/">Learning and Vision (LV) Lab</a> @ National University of Singapore, advised by Professor <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a>. 
+* I'm a third-year Ph.D. student at the <a href="http://lv-nus.org/">Learning and Vision (LV) Lab</a> @ National University of Singapore, advised by Professor <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a>. 
 * Prior to joining LV Lab, I obtained my Bachelor's and Master's degrees at the <a href="https://www.vipazoo.cn/">Visual Intelligence and Pattern Analysis (VIPA) Lab</a> @ Zhejiang University, where I worked under the supervision of Professor <a href="https://person.zju.edu.cn/en/msong">Mingli Song</a>. 
 * My research interests mainly revolve around **practical algorithms for efficient deep learning**. 
 
