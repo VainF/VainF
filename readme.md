@@ -21,5 +21,3 @@ My research focuses on <strong>LLMs, Diffusion and Efficient Generative Models</
 />
 <img src="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm" />
 </picture>
-
-<a href="https://stardev.io/developers/VainF"><img alt="Check out VainF's profile on stardev.io" src="https://stardev.io/developers/VainF/badge/languages/country.svg" /></a>
