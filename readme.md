@@ -10,5 +10,3 @@ My research focuses on <strong>LLMs, Diffusion and Efficient Generative Models</
 [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-Profile-9cf)](https://www.semanticscholar.org/author/Gongfan-Fang/150110431)
 [![DBLP](https://img.shields.io/badge/DBLP-Profile-271)](https://dblp.org/pid/243/5768.html)
 [![Page Views](https://komarev.com/ghpvc/?username=vainf&label=Page%20Views&color=ad2352)](https://github.com/VainF)
-
-[![Check out VainF's profile on stardev.io](https://stardev.io/developers/VainF/badge/languages/global.svg)](https://stardev.io/developers/VainF)
