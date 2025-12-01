@@ -11,14 +11,4 @@ My research focuses on <strong>LLMs, Diffusion and Efficient Generative Models</
 [![DBLP](https://img.shields.io/badge/DBLP-Profile-271)](https://dblp.org/pid/243/5768.html)
 [![Page Views](https://komarev.com/ghpvc/?username=vainf&label=Page%20Views&color=ad2352)](https://github.com/VainF)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=VainF&show_icons=true&theme=calm" />
-</picture>
+[![Check out VainF's profile on stardev.io](https://stardev.io/developers/VainF/badge/languages/global.svg)](https://stardev.io/developers/VainF)
