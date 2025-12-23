@@ -2,9 +2,6 @@ My name is Gongfan Fang, currently a last-year Ph.D. Candidate at the <a href="h
 
 My research focuses on <strong>LLMs, Diffusion and Efficient Generative Models</strong>. My previous work includes Hybrid Reasoning LLM, Efficient LLM, and Fast Diffusion Transformers. I'm also actively contributing to several projects such as <strong><a href="https://github.com/VainF/Torch-Pruning">Torch-Pruning</a></strong>, a top framework for compressing foundation models.
 
-> [!IMPORTANT]
-> I'm currently on the job market and open to both academic and industrial opportunities starting in March 2026. Please feel free to reach out via email (gongfan at u.nus.edu) if there’s a potential fit.
-
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-6C5B7B)](https://fangggf.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-355070)](https://scholar.google.com/citations?user=489YZ_kAAAAJ&hl=en)
 [![Page Views](https://komarev.com/ghpvc/?username=vainf&label=Page%20Views&color=3d8352)](https://github.com/VainF)
